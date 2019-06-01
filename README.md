@@ -9,15 +9,23 @@
 *Bu uygulama kullanıcıların ingilizce kelime ezberleyebilmeleri için yapılmıştır.*
 
 *Kullanıcılar uygulamaya kelime ekleyebileceklerdir.Uygulama ilk açıldığında 20 adet kelime mevcuttur.*
+
 *Kullanıcı sözlükten mevcut olan kelimeleri görüntüleyebilecektir.*
+
 *Kullanıcı kelime öğrenmek istediğinde kelime öğrenme formundan öğrenmek istediği kelimeyi seçecektir.*
+
 *Seçtiği kelime kullanıcıya 1 gün sonra sorulacaktır.*
+
 *Kullanıcı kelimeyi doğru bildiği sürece kelime 1 hafta, 1 ay ve 6 ay sonra sorulacaktır*
+
 *Kullanıcı soruyu yanlış cevaplarsa veya o gün programa girmezse öğrenme süreci o kelime için baştan başlayacaktır.*
+
 *Kullanıcı 4 aşamayı başarılı bir şekilde geçerse o kelime öğrenilmiş kelimeler arasına eklenecektir.*
+
 *Kullanıcı uygulamada seçtiği yıl veya ayda öğrendiği kelimeleri görüntüleyebilecektir.*
 
-*Bu uygulama Cihan ÇİFCİ ve Alparslan ÇAY tarafından geliştirildi.*
+*Bu uygulama Cihan ÇİFCİ ve Alparslan ÇAY tarafından geliştirilmiştir.*
+
 *Cihan ÇİFCİ GitHub Profili: https://github.com/cihancifci*
 
 
