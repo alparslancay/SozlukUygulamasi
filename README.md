@@ -18,6 +18,7 @@
 *Kullanıcı uygulamada seçtiği yıl veya ayda öğrendiği kelimeleri görüntüleyebilecektir.*
 
 *Bu uygulama Cihan ÇİFCİ ve Alparslan ÇAY tarafından geliştirildi.*
+Cihan ÇİFCİ GitHub Profili: https://github.com/cihancifci
 
 
 ![Ana Menü](https://user-images.githubusercontent.com/50801231/57987080-8610d580-7a85-11e9-98bd-546563fdcdc6.PNG)
