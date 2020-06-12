@@ -1,5 +1,9 @@
 ## Manisa Celal Bayar Üniversitesi Yazılım Mühendisliği Yazılım Yapımı Dönem Projesi 
 
+### Geliştiriciler
+
+👤 **[Alparslan ÇAY](https://github.com/alparslancay)**
+👤 **[Cihan ÇİFCİ](https://github.com/cihancifci)**
 
 **İngilizce-Türkçe Sözlük Uygulaması**
 
@@ -23,10 +27,6 @@
 *Kullanıcı 4 aşamayı başarılı bir şekilde geçerse o kelime öğrenilmiş kelimeler arasına eklenecektir.*
 
 *Kullanıcı uygulamada seçtiği yıl veya ayda öğrendiği kelimeleri görüntüleyebilecektir.*
-
-*Bu uygulama Cihan ÇİFCİ ve Alparslan ÇAY tarafından geliştirilmiştir.*
-
-*Cihan ÇİFCİ GitHub Profili: https://github.com/cihancifci*
 
 
 ![Ana Menü](https://user-images.githubusercontent.com/50801231/57987080-8610d580-7a85-11e9-98bd-546563fdcdc6.PNG)
